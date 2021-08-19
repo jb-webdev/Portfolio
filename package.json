@@ -1,0 +1,11 @@
+{
+  "name": "app_javascript",
+  "version": "1.0.0",
+  "description": "projet portfolio ",
+  "main": "app.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:css/style.css"
+  },
+  "author": "jbwebdev",
+  "license": "ISC"
+}

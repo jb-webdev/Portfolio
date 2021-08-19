@@ -1,0 +1,17 @@
+.hero__heading {
+    font-size: 100px;
+    margin-bottom: 24px;
+    color: $color-fonts-white;
+}
+
+.hero__heading span{
+    background: $background-linear-1;
+    background: $background-linear-2;
+    background: $background-linear-3;
+
+    background: 100;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}

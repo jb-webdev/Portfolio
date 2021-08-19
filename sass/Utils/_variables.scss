@@ -1,0 +1,14 @@
+$color-fonts-white: #fff;
+$color-background-primary: #131313;
+$color-hover: #0052D4;
+$color-hover-2: #00467F;
+
+
+/* Linear gradient */
+
+$background-linear-1: #003892;  /* fallback for old browsers */
+$background-linear-2: -webkit-linear-gradient(to right, #6FB1FC, #4364F7, #0052D4);  /* Chrome 10-25, Safari 5.1-6 */
+$background-linear-3: linear-gradient(to right, #6FB1FC, #4364F7, #0052D4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+$linearGradient : linear_gradient(to right, #161616);

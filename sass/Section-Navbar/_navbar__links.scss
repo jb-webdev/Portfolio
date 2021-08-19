@@ -1,0 +1,17 @@
+
+
+.navbar__links {
+    color: $color-fonts-white; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 125px;
+    text-decoration: none;
+    height: 100%;
+    transition: all 0.3s ease;
+ }
+
+.navbar__links:hover{
+    color: $color-hover;
+    transition: all 0.3s ease;
+}

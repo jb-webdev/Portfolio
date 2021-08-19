@@ -1,0 +1,27 @@
+@import "./Base/box-sizing";
+
+@import "./utils/variables";
+
+@import "./Section-Navbar/navbar";
+@import "./Section-Navbar/navbar__container";
+@import "./Section-Navbar/navbar__logo";
+@import "./Section-Navbar/navbar__menu";
+@import "./Section-Navbar/navbar__item";
+@import "./Section-Navbar/navbar__links";
+@import "./Section-Navbar/navbar__btn";
+@import "./Composant/button";
+@import "./Section-Navbar/navbar-responsive";
+
+@import "./Section-Hero/hero";
+@import "./Section-Hero/hero__container";
+@import "./Section-Hero/hero__heading";
+@import "./Section-Hero/hero__description";
+@import "./Section-Hero/hero-responsive";
+
+// Rajouter la section About ici
+// Rajouteer la Section Projets ici
+
+@import "./Footer/section-footer_container";
+@import "./Footer/section-footer__links";
+@import "./Footer/section-footer_social-media";
+@import "./Footer/section-footer_responsive";

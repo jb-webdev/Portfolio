@@ -1,0 +1,16 @@
+.hero__description {
+    font-size: 60px;
+    background: $background-linear-1;
+    background: $background-linear-2;
+    background: $background-linear-3;
+    
+    background: 100;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.highlight {
+    border-bottom: 4px solid $color-hover;
+}
